@@ -1,6 +1,12 @@
 @import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500&display=swap");
 @font-face {
-  src: url();
+  src: url(assets/font/NewsreaderDisplay-Italic.ttf);
+  font-family: newsreader display;
+}
+
+@font-face {
+  src: url(assets/font/NewsreaderDisplay-MediumItalic.ttf);
+  font-family: newsreader display;
 }
 
 body {
